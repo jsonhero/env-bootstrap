@@ -1,5 +1,10 @@
 Repo for all files for recreating my environment on other machines.
 
+
+### How to Run
+
+```$ ./setup.sh```
+
 ### Pre-install List
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - [Homebrew](https://brew.sh/)

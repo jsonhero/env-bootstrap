@@ -1,0 +1,10 @@
+font-clear-sans
+font-consolas-for-powerline
+font-dejavu-sans-mono-for-powerline
+font-fira-code
+font-fira-mono-for-powerline
+font-inconsolata
+font-inconsolata-for-powerline
+font-liberation-mono-for-powerline
+font-menlo-for-powerline
+font-roboto
