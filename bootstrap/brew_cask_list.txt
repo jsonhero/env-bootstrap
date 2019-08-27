@@ -1,10 +1,10 @@
-	adobe-acrobat-reader
-	docker
-	dropbox
-	github
-	google-chrome
-	google-hangouts
-	iterm2
-	slack
-	spotify
-	visual-studio-code
+adobe-acrobat-reader
+docker
+dropbox
+github
+google-chrome
+google-hangouts
+iterm2
+slack
+spotify
+visual-studio-code
